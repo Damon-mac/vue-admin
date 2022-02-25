@@ -1,6 +1,6 @@
 <template>
   <nav>
-    <router-link to="/">Home</router-link> |
+    <router-link to="/">Home</router-link> |水电费
     <router-link to="/about">About</router-link>
   </nav>
   <router-view/>
